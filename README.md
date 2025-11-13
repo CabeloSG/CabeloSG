@@ -10,19 +10,6 @@
   </span>
 </h1>
 
-<style>
-@keyframes neon {
-  from {
-    text-shadow: 0 0 5px #8A2BE2, 0 0 10px #8A2BE2, 0 0 20px #8A2BE2;
-  }
-  to {
-    text-shadow: 0 0 20px #FF00FF, 0 0 40px #FF00FF, 0 0 60px #FF00FF;
-  }
-}
-</style>
-
----
-
 ## 🚀 Sobre mim
 Sou estudante e desenvolvedor focado em **Java**, explorando o mundo da programação com curiosidade e paixão.  
 Sempre buscando aprender, melhorar e criar projetos com visual e código de impacto.
