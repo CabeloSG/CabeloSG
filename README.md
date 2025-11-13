@@ -1,7 +1,7 @@
-<!-- BANNER ANIMADO NEON -->
+<!-- BANNER ANIMADO NEON 
 <p align="center">
   <img src="https://i.imgur.com/0iV4FhN.gif" width="100%" alt="Banner Neon">
-</p>
+</p>-->
 
 <!-- TÍTULO COM EFEITO NEON ANIMADO -->
 <h1 align="center">
@@ -32,7 +32,7 @@ Sempre buscando aprender, melhorar e criar projetos com visual e código de impa
 ## 🔥 Tecnologias e Ferramentas — Estilo Neon
 
 <p align="center">
-  <img height="80" src="https://i.imgur.com/hHwzn6x.gif" />
+  <!--<img height="80" src="https://i.imgur.com/hHwzn6x.gif" />-->
   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -52,15 +52,15 @@ Sempre buscando aprender, melhorar e criar projetos com visual e código de impa
 ---
 
 ## 🎆 GIF Neon Especial do Java
-<p align="center">
+<!--<p align="center">
   <img src="https://i.imgur.com/qZIXjKz.gif" height="200" />
-</p>
+</p>-->
 
 ---
 
 ## 📬 Contato  
 📧 **Email:** leandrorecife@hotmail.com  
-🔗 **LinkedIn:** *me envie para adicionar ao README*  
+🔗 **LinkedIn:** *(https://www.linkedin.com/in/leandro-goncalves-4011603a/)*  
 
 ---
 
