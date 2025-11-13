@@ -16,7 +16,7 @@ Sempre buscando aprender, melhorar e criar projetos com visual e código de impa
 
 ---
 
-## 🔥 Tecnologias e Ferramentas — Estilo Neon
+## 🔥 Tecnologias e Ferramentas
 
 <p align="center">
   <!--<img height="80" src="https://i.imgur.com/hHwzn6x.gif" />-->
@@ -28,7 +28,7 @@ Sempre buscando aprender, melhorar e criar projetos com visual e código de impa
 
 ---
 
-## 📊 Estatísticas — Tema Neon (Dark)
+## 📊 Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CabeloSG&show_icons=true&theme=tokyonight&border_color=FF00FF&icon_color=00FFFF&title_color=FF00FF" />
@@ -38,7 +38,7 @@ Sempre buscando aprender, melhorar e criar projetos com visual e código de impa
 
 ---
 
-## 🎆 GIF Neon Especial do Java
+## 🎆 Especial do Java
 <!--<p align="center">
   <img src="https://i.imgur.com/qZIXjKz.gif" height="200" />
 </p>-->
